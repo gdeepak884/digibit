@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: digibit
+Version: 1.0
+Summary: Python Digital value problem solver
+Home-page: https://github.com/gdeepak884/bits
+Author: Deepak Gupta
+Author-email: gdeepak884@gmail.com
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/gdeepak884/digibit/issues
+Project-URL: Source, https://github.com/gdeepak884/digibit
+Description: This package is used for bits(or digital values) problems like conversions , complements.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, <4
+Description-Content-Type: text/markdown

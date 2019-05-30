@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+digibit.egg-info/PKG-INFO
+digibit.egg-info/SOURCES.txt
+digibit.egg-info/dependency_links.txt
+digibit.egg-info/top_level.txt
