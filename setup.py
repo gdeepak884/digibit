@@ -9,7 +9,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="digibit",
-    version="1.0",
+    version="1.1",
     author="Deepak Gupta",
     author_email="gdeepak884@gmail.com",
     description="Python Digital value problem solver",
